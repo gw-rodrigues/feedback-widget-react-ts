@@ -40,10 +40,10 @@ npx degit user/repository#main new-project-folder-name
 ![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/eba1ec06e6bf00f792d9f1f4ca4ce7df1dab9673/More....svg)
 
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
-![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/nlw-8?style=for-the-badge)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/nlw-8?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/nlw-8?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/nlw-8?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/feedback-widget-react-ts?style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/feedback-widget-react-ts?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/feedback-widget-react-ts?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gw-rodrigues/feedback-widget-react-ts?style=for-the-badge)
 
 ### Também queres desenvolver este projecto? Sim, escolha um dos caminhos abaixo!
 - [Origin](https://www.notion.so/Origin-6a9ada1d9f434bf1a85b7f3f50ef0347)
